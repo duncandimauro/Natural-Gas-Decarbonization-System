@@ -8,4 +8,6 @@ Moreover, decarbonization must utilize direct solar-thermal pyrolysis to the gre
 It is also required to provide a ‘peak’ power above the average usage, such that the system should be able to provide a peak hydrogen energy delivery of 200 kW in any given 3-hour period (i.e., even at night) through a combination of (net) produced and stored hydrogen.
 
 Thia repository includes all information & analysis used for the development of appropriately sized components including: (1) the solar-thermal concentrating heater for pyrolysis, (2) a hydrogen burner for auxiliary pyrolysis, and (3) a pressurized hydrogen tank for buffering and delivery of hydrogen to the microgrid. The analysis includes two options in which at least two of the three components are sized differently. The second option is designed to improve exergy efficiency. 
+
+
 ![V1 Overall System Diagram](https://user-images.githubusercontent.com/102009384/220576485-48e3cc48-e213-45f4-8d48-1073b6a6f01c.png)
